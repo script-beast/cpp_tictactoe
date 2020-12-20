@@ -1,7 +1,7 @@
 This is Tic Tac Toe game made in c++.
 _____________________________________________________________________________
 
-After u open the game the show up :---
+After u open the game the show up :--
 
 Menu : 
                     1. With Computer 
